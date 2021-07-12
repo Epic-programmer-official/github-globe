@@ -1,6 +1,6 @@
 # Github Globe
 
-![github-globe made by Zhanar Osmonaliev](https://Epic-programmer-official/github-globe/src/files/github-globe-banner.png)
+![github-globe made by Santosh Arron](https://i.imgur.com/DXe4GeC.png)
 
 ## Inspiration
 
