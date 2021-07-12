@@ -1,0 +1,36 @@
+{
+  "name": "github-globe",
+  "version": "1.0.0",
+  "description": "Github Globe Clone",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config=webpack.prod.js",
+    "build-dev": "webpack --config=webpack.dev.js",
+    "start": "webpack serve webpack-dev-server --open --config=webpack.dev.js"
+  },
+  "keywords": [
+    "github",
+    "github-globe",
+    "3d",
+    "threejs",
+    "epic-programmer",
+    "epicprogrammer",
+    "santosharron",
+    "Santosh-Arron"
+  ],
+  "author": "Santosh Arron",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.124.0",
+    "three-globe": "^2.11.1",
+    "three-glow-mesh": "^0.1.2"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "json-loader": "^0.5.7",
+    "webpack": "^5.15.0",
+    "webpack-cli": "^4.3.1",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
